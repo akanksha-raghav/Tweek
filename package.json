@@ -4,12 +4,12 @@
   "description": "This is a node server for our iChat application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akanksha",
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {}
 }
